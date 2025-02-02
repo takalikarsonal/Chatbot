@@ -15,7 +15,6 @@ pairs = [
     ["tell me a fact", ["Did you know honey never spoils? Archaeologists have found pots of honey in ancient tombs that are still edible!"]],
     ["what time is it?", ["Sorry, I can't check the time right now."]],
     ["what is your purpose?", ["My purpose is to chat with you and make your day better!"]],
-    ["what is your favorite food?", ["I don't eat, but I hear pizza is a popular choice."]],
     ["do you like music?", ["I think music is wonderful! It can be so relaxing or energizing."]],
     ["can you play music?", ["I can't play music, but I can recommend some! What genre do you like?"]],
     ["what is the weather like?", ["I can't check the weather, but you can use a weather app or website to find out."]],
